@@ -29,8 +29,8 @@ Debe contar con todas las reglas de asociación para un soporte, confianza y lif
 Ejemplo:
 ```
 A;B;support;confidence;lift
-i1,i2;i3;.8;.7;.8
-i1;i3;.8;.8;.9
+i1,i2;i3;0.8;0.7;1
+i1;i3;0.8;0.8;1.2
 
 ```
 Donde los items están ordenados ascendentemente.
